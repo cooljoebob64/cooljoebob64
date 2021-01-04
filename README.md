@@ -1,4 +1,16 @@
-### Hi there 👋
+# Howdy! 👋
+
+My name is Joshua Luppes, and I am a full-stack web developer in training! 
+
+I'm currently attending the TTS Full-Stack Web Developer [Bootcamp](https://codeshv.com/), which will be completed in March 2021.
+
+- 🌱 I’m currently learning and focusing on React and Redux!
+
+
+## Here are some of my posts from other sites:
+<!-- DEVTO:START --> <!-- DEVTO:END -->
+<!-- MEDIUM:START --> <!-- MEDIUM:END -->
+
 
 <!--
 **cooljoebob64/cooljoebob64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +18,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
