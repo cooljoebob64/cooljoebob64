@@ -8,9 +8,9 @@ I'm currently attending the TTS Full-Stack Web Developer [Bootcamp](https://code
 - 🧪 Trying my hand at TDD and loving it!! 
 - 💬 Practicing writing meaningful and useful commit messages, and reading them!
 
+<!-- 
 ## Here are some of my posts from other sites:
-
-<!-- DEVTO:START --> <!-- DEVTO:END -->
+DEVTO:START --> <!-- DEVTO:END -->
 <!-- MEDIUM:START --> <!-- MEDIUM:END -->
 
 ## Here are some GitHub stats:
