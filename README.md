@@ -1,8 +1,8 @@
 # Howdy! 👋
 
-My name is Joshua Luppes, and I am a full-stack web developer in training!
+My name is Joshua Luppes, and I am a full-stack web developer!
 
-I'm currently attending the TTS Full-Stack Web Developer [Bootcamp](https://codeshv.com/), which will be completed in March 2021.
+I've recently graduated from the TTS Full-Stack Java Web Developer [Bootcamp](https://codeshv.com/) in March 2021.
 
 - 💾 Current learning .Net and C#!
 - ⚒ Getting better at building back-ends with Spring Boot! 
