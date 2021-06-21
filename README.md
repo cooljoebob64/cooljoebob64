@@ -17,7 +17,8 @@ DEVTO:START --> <!-- DEVTO:END -->
 
 ## Here are some GitHub stats:
 
-[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=cooljoebob64)](https://github.com/anuraghazra/github-readme-stats)
+[![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=cooljoebob64&show_icons=true&theme=merko)
+](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://github.com/cooljoebob64">
