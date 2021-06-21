@@ -17,8 +17,8 @@ DEVTO:START --> <!-- DEVTO:END -->
 
 ## Here are some GitHub stats:
 
-<a href="https://github.com/cooljoebob64">
-<img align="center" alt="Joshua's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cooljoebob64&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a> <br />
+<!-- <a href="https://github.com/cooljoebob64">
+<img align="center" alt="Joshua's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cooljoebob64&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a> <br /> -->
 
 <a href="https://github.com/cooljoebob64">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=cooljoebob64&layout=compact&theme=radical" />
